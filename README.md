@@ -95,5 +95,30 @@ To deploy this project using Firebase:
 firebase deploy
 ```
 
+## **SET-UP Project from my end**
+
+1. Created React+Vite App
+2. Configure Tailwind-CSS 
+3. 
+4. 
+
+
+## **Features for the Application**
+
+- Login/SignUp
+    - Sign In / Sign Up Form
+    - redirect to Browse Page
+
+- Browse (after authentication)
+    - Header
+    - Main Movie
+        - Trailer in Background
+        - Title & Description
+        - Movie Suggestions
+        
+- NetMirrorGPT
+    - Search Bar
+    - Movie Suggestions
+
 ---
 
