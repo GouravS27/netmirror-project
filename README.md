@@ -97,10 +97,12 @@ firebase deploy
 
 ## **SET-UP Project from my end**
 
-1. Created React+Vite App
+1. Created React+Vite App (npm create vite@latest netmirror)
 2. Configure Tailwind-CSS 
-3. 
-4. 
+3. Configure React Router (npm i -D react-router-dom)
+4. Header Component
+5. SignIn/Up form
+6.
 
 
 ## **Features for the Application**
